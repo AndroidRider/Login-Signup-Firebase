@@ -16,7 +16,7 @@ offering a comprehensive example of how to integrate secure user authentication 
 
 # Installation and Setup
 1. Clone the repository: git clone https://github.com/AndroidRider/Login-Signup-Firebase.git
-2. Navigate to the project directory: cd firebase-signup-login-app
+2. Navigate to the project directory: cd Login-Signup-Firebase
 3. Set up your Firebase project and obtain the configuration details
 4. Enable viewBinding
 
