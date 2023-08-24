@@ -3,6 +3,11 @@ This repository contains a Firebase-based signup and login app that showcases th
 The app is designed and developed using Kotlin, XML, and Firebase, 
 offering a comprehensive example of how to integrate secure user authentication into your projects using Firebase.
 
+# Screenshots
+![Register](https://github.com/AndroidRider/Login-Signup-Firebase/assets/140700822/27357a41-dfee-444d-915d-d65882a114ac)
+![Login](https://github.com/AndroidRider/Login-Signup-Firebase/assets/140700822/5c4d04e1-489f-48aa-8003-16c0794102ae)
+![Home](https://github.com/AndroidRider/Login-Signup-Firebase/assets/140700822/490c5d92-8b6a-446a-bedf-f463f297dc35)
+
 # Features
 * User registration with email and password
 * Secure user login with stored credentials
